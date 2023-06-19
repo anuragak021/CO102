@@ -16,4 +16,5 @@ program10.c --> Exp10 --> WAP for linear search \
 program11.c --> Exp11 --> WAP for Binary Search \
 program12.c --> Exp12 --> WAP for Selection Sort \
 program13.c --> Exp13 --> WAP for Bubble Sort \
-program14.c --> Exp14 --> WAP for Insertion Sort 
+program14.c --> Exp14 --> WAP for Insertion Sort \
+str.c      --> Exp15 --> WAP for string operations 
